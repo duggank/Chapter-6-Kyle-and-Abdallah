@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\InchesToFeet\bin\Debug\InchesToFeet.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\InchesToFeet\bin\Debug\InchesToFeet.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\InchesToFeet\obj\x86\Debug\InchesToFeet.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\InchesToFeet\obj\x86\Debug\InchesToFeet.pdb

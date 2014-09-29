@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Monogram\bin\Debug\Monogram.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Monogram\bin\Debug\Monogram.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Monogram\obj\x86\Debug\Monogram.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Monogram\obj\x86\Debug\Monogram.pdb
