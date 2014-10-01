@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Exponent\bin\Debug\Exponent.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Exponent\bin\Debug\Exponent.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Exponent\obj\x86\Debug\Exponent.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Exponent\obj\x86\Debug\Exponent.pdb

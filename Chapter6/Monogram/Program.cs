@@ -7,8 +7,20 @@ namespace Monogram
 {
     class Program
     {
+
+        public static void DisplayMonogram(char first, char middle, char last)
+        {
+
+            Console.WriteLine("** {0}. {1}. {2}. **", first, middle, last);
+
+        }
         static void Main(string[] args)
         {
+            char first = 'K', middle = 'R', last = 'D', first2 = 'A', middle2 = 'M', last2 = 'D';
+            DisplayMonogram(first, middle, last);
+            Console.WriteLine();
+            DisplayMonogram(first = first2, middle = middle2, last = last2);
+
         }
     }
 }
