@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Reverse4\bin\Debug\Reverse4.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Reverse4\bin\Debug\Reverse4.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Reverse4\obj\x86\Debug\Reverse4.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-6-Kyle-and-Abdallah\Chapter6\Reverse4\obj\x86\Debug\Reverse4.pdb

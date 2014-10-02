@@ -19,7 +19,7 @@ namespace Monogram
             char first = 'K', middle = 'R', last = 'D', first2 = 'A', middle2 = 'M', last2 = 'D';
             DisplayMonogram(first, middle, last);
             Console.WriteLine();
-            DisplayMonogram(first = first2, middle = middle2, last = last2);
+            DisplayMonogram(first2, middle2, last2);
 
         }
     }

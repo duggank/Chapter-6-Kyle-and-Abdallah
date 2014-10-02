@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponent", "Exponent\Expone
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "Square\Square.csproj", "{AB41FD35-C780-4C10-A899-2540E4EB5C99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse3", "Reverse3\Reverse3.csproj", "{047C381B-042A-43E6-9C1C-C8B9A537CE4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse4", "Reverse4\Reverse4.csproj", "{4C217B35-7F1F-4AFC-B19F-7F14CBA75E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{439367B5-C64D-4488-8528-AE50C99FCAF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +37,18 @@ Global
 		{AB41FD35-C780-4C10-A899-2540E4EB5C99}.Debug|x86.Build.0 = Debug|x86
 		{AB41FD35-C780-4C10-A899-2540E4EB5C99}.Release|x86.ActiveCfg = Release|x86
 		{AB41FD35-C780-4C10-A899-2540E4EB5C99}.Release|x86.Build.0 = Release|x86
+		{047C381B-042A-43E6-9C1C-C8B9A537CE4E}.Debug|x86.ActiveCfg = Debug|x86
+		{047C381B-042A-43E6-9C1C-C8B9A537CE4E}.Debug|x86.Build.0 = Debug|x86
+		{047C381B-042A-43E6-9C1C-C8B9A537CE4E}.Release|x86.ActiveCfg = Release|x86
+		{047C381B-042A-43E6-9C1C-C8B9A537CE4E}.Release|x86.Build.0 = Release|x86
+		{4C217B35-7F1F-4AFC-B19F-7F14CBA75E89}.Debug|x86.ActiveCfg = Debug|x86
+		{4C217B35-7F1F-4AFC-B19F-7F14CBA75E89}.Debug|x86.Build.0 = Debug|x86
+		{4C217B35-7F1F-4AFC-B19F-7F14CBA75E89}.Release|x86.ActiveCfg = Release|x86
+		{4C217B35-7F1F-4AFC-B19F-7F14CBA75E89}.Release|x86.Build.0 = Release|x86
+		{439367B5-C64D-4488-8528-AE50C99FCAF5}.Debug|x86.ActiveCfg = Debug|x86
+		{439367B5-C64D-4488-8528-AE50C99FCAF5}.Debug|x86.Build.0 = Debug|x86
+		{439367B5-C64D-4488-8528-AE50C99FCAF5}.Release|x86.ActiveCfg = Release|x86
+		{439367B5-C64D-4488-8528-AE50C99FCAF5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
